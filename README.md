@@ -16,3 +16,17 @@ A simple eCommerce web application built with Flask and SQLite, allowing users t
 - **SQLAlchemy**: ORM for database interactions.
 - **Werkzeug**: Library for securely hashing and checking passwords.
 
+## Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/fo3d/E-commerce.git
+   cd E-commerce
+## Screenshots
+
+![Home Page](screenshots/home.png)
+![login Page](screenshots/login.png)
+
+## License
+
+This project is licensed under the MIT License.
