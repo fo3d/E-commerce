@@ -16,12 +16,3 @@ A simple eCommerce web application built with Flask and SQLite, allowing users t
 - **SQLAlchemy**: ORM for database interactions.
 - **Werkzeug**: Library for securely hashing and checking passwords.
 
-## Installation
-
-To get the project up and running locally, follow these steps:
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/repositoryname.git
-cd repositoryname
